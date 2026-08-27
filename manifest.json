@@ -1,0 +1,16 @@
+{
+  "name": "ParkPoint Enterprise Parking",
+  "short_name": "ParkPoint",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4f2ee",
+  "theme_color": "#111111",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
